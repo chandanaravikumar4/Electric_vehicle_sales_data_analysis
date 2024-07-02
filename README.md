@@ -22,4 +22,4 @@ The dashboard provides insights into sales performance, including key metrics su
 4. See the image attached for dashboard reference.
 
 
-<img width="733" alt="Dashboard" src="https://github.com/chandanaravikumar4/Electric_vehicle_sales_data_analysis/Electric_Vehicle_Analysis.jpg">
+<img width="733" alt="Dashboard" src="Electric_Vehicle_Analysis.jpg">
