@@ -11,15 +11,15 @@ The dashboard provides insights into sales performance, including key metrics su
 
 # Files
 
-- `SalesDashboard.pbix`: The Power BI report file.
-- `sales_data.csv`: The dataset used for the dashboard.
+- `Electric Vehicle Dashboard.pbix`: The Power BI report file.
+- `Electric_Vehicle_Population_Data.csv`: The dataset used for the dashboard.
 
 # How to Use
 
 1. Download the `.csv` file for icons.
 2. Use those in Power BI Desktop.
-3. Connect to the `sales_data.csv`
+3. Connect to the `Electric_Vehicle_Population_Data.csv`
 4. See the image attached for dashboard reference.
 
 
-<img width="733" alt="Dashboard" src="https://github.com/pavankalyankadiyala/Sales-Data-Dashboard/assets/156237146/9b4e1177-0338-49f3-a745-dea7cecadf99">
+<img width="733" alt="Dashboard" src="https://github.com/chandanaravikumar4/Electric_vehicle_sales_data_analysis/Electric_Vehicle_Analysis.jpg">
